@@ -1,7 +1,7 @@
 # AI Assignment 4 – Constraint Satisfaction Problems (CSP)
 
 ## Overview
-This project implements classic CSP problems using Python.
+This project implements CSP problems using Python.
 
 ## Problems Implemented
 
